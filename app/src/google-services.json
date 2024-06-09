@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "567551041600",
+    "firebase_url": "https://foodorderapp-807a3-default-rtdb.firebaseio.com",
+    "project_id": "foodorderapp-807a3",
+    "storage_bucket": "foodorderapp-807a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567551041600:android:119554b2b823a4defcffa5",
+        "android_client_info": {
+          "package_name": "com.breens.foodappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7Jqg1tA_B3Gmf8fuZM7au9z7bfr015Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567551041600:android:51ac51fa70afc3c7fcffa5",
+        "android_client_info": {
+          "package_name": "com.breens.orderfoodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL7Jqg1tA_B3Gmf8fuZM7au9z7bfr015Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
